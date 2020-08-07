@@ -7,7 +7,7 @@
           <h5>Click the heart button below the image</h5>
           <v-card class="dog-card">
             <v-img height="400px" :src="currentDogLink"></v-img>
-            <h2>Here is a test</h2>
+            <h2>TESTING</h2>
             <v-card-actions>
               <v-spacer></v-spacer>
 
